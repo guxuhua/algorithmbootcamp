@@ -3,7 +3,7 @@ package com.cn.learn.strategy;
 /**
  * 满减活动  -- 需传入满多少减多少
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 11:31 PM
  */

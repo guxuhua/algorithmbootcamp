@@ -6,7 +6,7 @@ import com.cn.learn.proxy.common.IGamePlayer;
 /**
  * 静态代理
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2021/12/30 4:17 PM
  */

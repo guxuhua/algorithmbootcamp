@@ -3,7 +3,7 @@ package com.cn.learn.simplefactory;
 /**
  * 加法运算 - 对抽象的具体实现
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 10:42 PM
  */

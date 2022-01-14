@@ -3,7 +3,7 @@ package com.cn.learn.simplefactory;
 /**
  * 减法运算
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 10:43 PM
  */

@@ -3,7 +3,7 @@ package com.cn.learn.strategy;
 /**
  * 商场收银的抽象接口
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 11:26 PM
  */

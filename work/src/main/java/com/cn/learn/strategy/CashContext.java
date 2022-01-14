@@ -3,7 +3,7 @@ package com.cn.learn.strategy;
 /**
  * 策略模式的上下文  -- 可以与简单工厂组合使用
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 11:33 PM
  */

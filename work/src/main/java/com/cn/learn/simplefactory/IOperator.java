@@ -3,7 +3,7 @@ package com.cn.learn.simplefactory;
 /**
  * 计算器的抽象接口，只定义行为
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 10:40 PM
  */

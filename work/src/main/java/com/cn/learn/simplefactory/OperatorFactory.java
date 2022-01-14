@@ -3,7 +3,7 @@ package com.cn.learn.simplefactory;
 /**
  * 简单工厂类 - 负责对象的创建
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 10:48 PM
  */

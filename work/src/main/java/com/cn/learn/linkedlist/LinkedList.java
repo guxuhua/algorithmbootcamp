@@ -14,7 +14,7 @@ package com.cn.learn.linkedlist;
  * 优化2：使用递归
  *
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2021/12/29 9:32 PM
  */
@@ -26,7 +26,7 @@ public class LinkedList {
      * @param head 链表的头节点
      * @param val  满足条件的值
      * @return com.cn.learn.linkedlist.LinkedList.ListNode
-     * @author guxh@asiainfo.com
+     * @author guxuhua
      * @date 2021/12/29 9:33 PM
      **/
     public ListNode removeElements(ListNode head, int val) {
@@ -69,7 +69,7 @@ public class LinkedList {
     /**
      * 内部类形式实现的链表节点
      *
-     * @author guxh@asiainfo.com
+     * @author guxuhua
      * @date 2021/12/29 9:33 PM
      **/
     private static class ListNode {

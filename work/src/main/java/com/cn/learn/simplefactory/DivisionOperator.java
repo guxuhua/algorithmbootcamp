@@ -1,7 +1,7 @@
 package com.cn.learn.simplefactory;
 
 /**
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 10:45 PM
  */

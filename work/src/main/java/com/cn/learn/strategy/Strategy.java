@@ -3,7 +3,7 @@ package com.cn.learn.strategy;
 /**
  * 策略模式测试类
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 11:47 PM
  */

@@ -3,7 +3,7 @@ package com.cn.learn.strategy;
 /**
  * 普通情况：不打折、不返积分、不满减
  *
- * @author guxh@asiainfo.com
+ * @author guxuhua
  * @version 1.0
  * @date 2022/1/10 11:29 PM
  */
