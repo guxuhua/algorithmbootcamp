@@ -14,6 +14,7 @@ public class StaticProxyClient {
 
     public static void main(String[] args) {
         String name = "静态代理1111";
+        // 被代理对象
         IGamePlayer player = new GamePlayer(name);
         // 代理
         StaticProxy proxy = new StaticProxy(player);

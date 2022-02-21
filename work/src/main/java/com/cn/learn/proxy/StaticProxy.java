@@ -1,6 +1,5 @@
 package com.cn.learn.proxy;
 
-import com.cn.learn.proxy.common.GamePlayer;
 import com.cn.learn.proxy.common.IGamePlayer;
 
 /**
@@ -30,6 +29,7 @@ public class StaticProxy implements IGamePlayer {
      * @author guxuhua
      * @date 2021/12/30 3:52 PM
      **/
+    @Override
     public boolean login(String name, String passwd) {
         return this.gamePlayer.login(name, passwd);
     }
@@ -40,6 +40,7 @@ public class StaticProxy implements IGamePlayer {
      * @author guxuhua
      * @date 2021/12/30 3:53 PM
      **/
+    @Override
     public void killBoss() {
         this.gamePlayer.killBoss();
     }
@@ -50,6 +51,7 @@ public class StaticProxy implements IGamePlayer {
      * @author guxuhua
      * @date 2021/12/30 3:54 PM
      **/
+    @Override
     public void upgrade() {
         this.gamePlayer.upgrade();
     }

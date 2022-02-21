@@ -27,6 +27,7 @@ public class GamePlayer implements IGamePlayer {
      * @author guxuhua
      * @date 2021/12/30 3:52 PM
      **/
+    @Override
     public boolean login(String name, String passwd) {
         System.out.println(String.format(">>>>>为用户：%s,密码为：%s执行登陆<<<<<", name, passwd));
         if (name.equals(this.userName) && null != passwd) {
@@ -41,6 +42,7 @@ public class GamePlayer implements IGamePlayer {
      * @author guxuhua
      * @date 2021/12/30 3:53 PM
      **/
+    @Override
     public void killBoss() {
         System.out.println(String.format(">>>>>玩家：%s在击杀BOSS<<<<<", this.userName));
     }
@@ -51,6 +53,7 @@ public class GamePlayer implements IGamePlayer {
      * @author guxuhua
      * @date 2021/12/30 3:54 PM
      **/
+    @Override
     public void upgrade() {
         System.out.println(String.format(">>>>>玩家：%s升级<<<<<", this.userName));
     }
