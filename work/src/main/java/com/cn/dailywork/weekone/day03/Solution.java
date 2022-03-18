@@ -1,4 +1,4 @@
-package com.cn.dailywork.day03;
+package com.cn.dailywork.weekone.day03;
 
 /**
  * leetcode 141题

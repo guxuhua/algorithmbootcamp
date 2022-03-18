@@ -1,4 +1,4 @@
-package com.cn.dailywork.day04;
+package com.cn.dailywork.weekone.day04;
 
 import java.util.concurrent.Semaphore;
 

@@ -1,4 +1,4 @@
-package com.cn.dailywork.day06;
+package com.cn.dailywork.weekone.day06;
 
 /**
  * @author guxh@asiainfo.com

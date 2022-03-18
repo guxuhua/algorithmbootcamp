@@ -1,4 +1,4 @@
-package com.cn.dailywork.day01;
+package com.cn.dailywork.weekone.day01;
 
 
 import java.util.Arrays;

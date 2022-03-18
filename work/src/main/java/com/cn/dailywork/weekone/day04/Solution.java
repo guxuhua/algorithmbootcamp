@@ -1,7 +1,4 @@
-package com.cn.dailywork.day04;
-
-import java.util.HashMap;
-import java.util.Map;
+package com.cn.dailywork.weekone.day04;
 
 /**
  * 力扣：142题

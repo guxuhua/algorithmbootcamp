@@ -1,4 +1,4 @@
-package com.cn.dailywork.day05;
+package com.cn.dailywork.weekone.day05;
 
 import java.util.Stack;
 

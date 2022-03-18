@@ -1,4 +1,4 @@
-package com.cn.dailywork.day02;
+package com.cn.dailywork.weekone.day02;
 
 /**
  * 力扣206
